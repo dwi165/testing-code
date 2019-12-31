@@ -1,4 +1,4 @@
-def penghitung_kata():
+def hitung_state():
     kata = '00110001'
     jml_bit = len(kata)
     print kata
@@ -64,4 +64,4 @@ def penghitung_kata():
 		
 	print kotak
 
-penghitung_kata()
+hitung_state()
